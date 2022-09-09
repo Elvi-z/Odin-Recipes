@@ -1,1 +1,2 @@
 # Odin-Recipes
+Project Recipes is all about showcasing My HTML skills. I just started THE ODIN'S PROJECT, even though i have completed courses on HTML and CSS before now, i just feel like doing it all over again to increase my fluency in the language. I hope that by the time i am done with this project, HTML would be part and parcel of Me.
